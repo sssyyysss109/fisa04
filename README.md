@@ -1,7 +1,6 @@
 "# fisa04" 
 ## 두번째 제목
 ### 세번째 제목
-일반글자
 ---
 <hr>
 ***
@@ -42,9 +41,3 @@ unordered list
 
 ```![링크가 깨졌을 때 이미지](링크)```
 [포차코](https://imgur.com/a/CYPTpTt)
-
-add new line
-
-add new third line
-
-add new fourth line
