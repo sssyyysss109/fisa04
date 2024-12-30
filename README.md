@@ -13,6 +13,12 @@
 ~~취소~~
 **진하게**
 
+ordered list
+
 1. 첫번째
 2. 두번째
     1. 하위 목차
+  
+unordered list
+-a
+-b
