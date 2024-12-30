@@ -30,6 +30,15 @@ unordered list
         name="송선유"
 ```
 
+표만들기
 |    name    |    gender    |
 |------------|--------------|
 |송선유      |    F         |
+
+
+
+```[화면에 출력될 문자](링크)```
+[네이버](https://www.naver.com)
+
+```![링크가 깨졌을 때 이미지](링크)```
+[포차코](https://imgur.com/a/CYPTpTt)
